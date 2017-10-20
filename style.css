@@ -11,8 +11,12 @@
 
 #logoletters {
   color: white;
+  text-align: right;
 }
 #logoletters-right{
+  position: fixed;
+  right: 0px;
   font-family: serif;
   color: white;
+  text-align: right;
 }
