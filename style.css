@@ -10,5 +10,9 @@
 }
 
 #logoletters {
-  color: white
+  color: white;
+}
+#logoletters-right{
+  font-family: serif;
+  color: white;
 }
