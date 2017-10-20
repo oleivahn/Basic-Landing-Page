@@ -1,5 +1,5 @@
 #mc_embed_signup {
-  background-color: #dc3545;
+  background-color: #1485cc;
   color: white;
    width: 100%;
    float: left;
@@ -7,6 +7,10 @@
 
 .navbar {
   background-color: #dc3545;
+}
+
+.container {
+  padding-top: 35px;
 }
 
 #logoletters {
