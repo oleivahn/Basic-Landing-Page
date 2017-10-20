@@ -4,3 +4,11 @@
    width: 600px;
    float: left;
 }
+
+.navbar {
+  background-color: #dc3545;
+}
+
+#logoletters {
+  color: white
+}
